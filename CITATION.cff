@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: ClockJumper Global Workday Overlap Dataset
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: "ClockJumper Research"
+version: "1.0"
+date-released: 2026-07-05
+license: CC-BY-4.0
+url: "https://clockjumper.com/research/overlap/dataset"
+repository: "https://github.com/HaphazardGuess/workday-overlap-dataset"
+abstract: >-
+  Shared 9-to-5 working hours between every pair of 223 major world cities,
+  computed for January and July 2026 from IANA time-zone rules. Cities span
+  42 distinct time-zone regimes and are selected through four documented
+  inclusion gates.
+keywords:
+  - time zones
+  - remote work
+  - distributed teams
+  - workday overlap
+  - IANA
