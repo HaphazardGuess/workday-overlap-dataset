@@ -1,0 +1,61 @@
+{
+  "dataset": "ClockJumper Global Workday Overlap Dataset",
+  "version": "1.0",
+  "edition": "2026",
+  "description": "Shared 9-to-5 working hours between every pair of 223 major world cities, computed for January and July 2026 using IANA time-zone rules. Cities span 42 distinct time-zone regimes.",
+  "homepage": "https://clockjumper.com/research/overlap",
+  "generated": {
+    "tz_database": "IANA tzdata 2026a",
+    "sample_dates": [
+      "2026-01-15",
+      "2026-07-15"
+    ],
+    "workday": "09:00-17:00 local (480 minutes)",
+    "overlap_definition": "Shared minutes of the two local workdays in absolute time, using the shorter of the two ways around the 24-hour clock (dateline-wrapped). Range 0-480."
+  },
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "citation": "ClockJumper Research (2026). ClockJumper Global Workday Overlap Dataset, 2026 edition. https://clockjumper.com/research/overlap/dataset. Licensed CC BY 4.0.",
+  "city_selection_gates": [
+    "GaWC 2024 World Cities classification, Alpha/Beta/Gamma tiers (190 cities)",
+    "Principal services-delivery hubs per Kearney GSLI top-tier countries and national industry associations (12 cities)",
+    "Timezone-regime completeness: the most populous city of any inhabited UTC-offset regime (>=100,000 residents) not otherwise represented (15 cities)",
+    "Euromonitor Top 100 City Destinations Index 2025, publicly-released rankings only (6 cities)"
+  ],
+  "weighting_note": "Headline statistics can be computed city-weighted (each of 24,753 pairs counts once) or regime-weighted (each of the C(42,2)=861 distinct different-regime pairs counts once). Both are legitimate and answer different questions; see the homepage for the dual-frame explanation.",
+  "files": {
+    "overlap-dataset.csv": {
+      "rows": 24753,
+      "columns": {
+        "city_a": "First city (alphabetical within each pair)",
+        "city_b": "Second city",
+        "country_a": "Country of city_a",
+        "country_b": "Country of city_b",
+        "iana_a": "IANA time-zone id for city_a",
+        "iana_b": "IANA time-zone id for city_b",
+        "overlap_jan_minutes": "Shared 09:00-17:00 workday minutes on 2026-01-15 (0-480)",
+        "overlap_jul_minutes": "Shared 09:00-17:00 workday minutes on 2026-07-15 (0-480)"
+      }
+    },
+    "cities.csv": {
+      "rows": 223,
+      "columns": {
+        "city": "Display name",
+        "country": "Country",
+        "iana": "IANA id",
+        "utc_offset_jan": "UTC offset on 2026-01-15",
+        "utc_offset_jul": "UTC offset on 2026-07-15",
+        "gate": "Inclusion gate",
+        "gawc_tier": "GaWC 2024 tier where applicable"
+      }
+    }
+  },
+  "conventions": {
+    "no_commas": "No field value contains a comma.",
+    "washington": "'Washington DC' = Washington, D.C., USA.",
+    "san_jose": "'San Jose (CA)' = California; 'San José (Costa Rica)' = the Costa Rican capital.",
+    "birmingham": "'Birmingham (UK)' = United Kingdom."
+  }
+}

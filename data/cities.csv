@@ -1,0 +1,224 @@
+city,country,iana,utc_offset_jan,utc_offset_jul,gate,gawc_tier
+Abu Dhabi,UAE,Asia/Dubai,+4,+4,GaWC 2024,Beta
+Accra,Ghana,Africa/Accra,+0,+0,GaWC 2024,Gamma-
+Adelaide,Australia,Australia/Adelaide,+10:30,+9:30,GaWC 2024,Gamma+
+Ahmedabad,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Gamma
+Almaty,Kazakhstan,Asia/Almaty,+5,+5,GaWC 2024,Gamma+
+Amman,Jordan,Asia/Amman,+3,+3,GaWC 2024,Gamma+
+Amsterdam,Netherlands,Europe/Amsterdam,+1,+2,GaWC 2024,Alpha
+Anchorage,US,America/Anchorage,-9,-8,Timezone-regime completeness,
+Antalya,Turkey,Europe/Istanbul,+3,+3,Euromonitor 2025,
+Antwerp,Belgium,Europe/Brussels,+1,+2,GaWC 2024,Gamma+
+Apia,Samoa,Pacific/Apia,+13,+13,Timezone-regime completeness,
+Athens,Greece,Europe/Athens,+2,+3,GaWC 2024,Beta+
+Atlanta,US,America/New_York,-5,-4,GaWC 2024,Beta+
+Auckland,New Zealand,Pacific/Auckland,+13,+12,GaWC 2024,Beta+
+Austin,US,America/Chicago,-6,-5,GaWC 2024,Gamma+
+Baku,Azerbaijan,Asia/Baku,+4,+4,GaWC 2024,Gamma-
+Baltimore,US,America/New_York,-5,-4,GaWC 2024,Gamma-
+Bangalore,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Beta+
+Bangkok,Thailand,Asia/Bangkok,+7,+7,GaWC 2024,Alpha
+Barcelona,Spain,Europe/Madrid,+1,+2,GaWC 2024,Beta+
+Beijing,China,Asia/Shanghai,+8,+8,GaWC 2024,Alpha+
+Beirut,Lebanon,Asia/Beirut,+2,+3,GaWC 2024,Beta-
+Belgrade,Serbia,Europe/Belgrade,+1,+2,GaWC 2024,Beta-
+Berlin,Germany,Europe/Berlin,+1,+2,GaWC 2024,Alpha-
+Bilbao,Spain,Europe/Madrid,+1,+2,GaWC 2024,Gamma-
+Birmingham (UK),UK,Europe/London,+0,+1,GaWC 2024,Gamma
+Bogota,Colombia,America/Bogota,-5,-5,GaWC 2024,Beta+
+Bologna,Italy,Europe/Rome,+1,+2,GaWC 2024,Gamma
+Boston,US,America/New_York,-5,-4,GaWC 2024,Alpha-
+Bratislava,Slovakia,Europe/Bratislava,+1,+2,GaWC 2024,Beta-
+Brisbane,Australia,Australia/Brisbane,+10,+10,GaWC 2024,Beta
+Bristol,UK,Europe/London,+0,+1,GaWC 2024,Gamma
+Brussels,Belgium,Europe/Brussels,+1,+2,GaWC 2024,Alpha-
+Bucharest,Romania,Europe/Bucharest,+2,+3,GaWC 2024,Beta+
+Budapest,Hungary,Europe/Budapest,+1,+2,GaWC 2024,Beta+
+Buenos Aires,Argentina,America/Argentina/Buenos_Aires,-3,-3,GaWC 2024,Alpha-
+Cairo,Egypt,Africa/Cairo,+2,+3,GaWC 2024,Beta
+Calgary,Canada,America/Edmonton,-7,-6,GaWC 2024,Beta
+Cali,Colombia,America/Bogota,-5,-5,GaWC 2024,Gamma-
+Cape Town,South Africa,Africa/Johannesburg,+2,+2,GaWC 2024,Gamma+
+Caracas,Venezuela,America/Caracas,-4,-4,GaWC 2024,Beta-
+Casablanca,Morocco,Africa/Casablanca,+1,+1,GaWC 2024,Beta-
+Cebu,Philippines,Asia/Manila,+8,+8,Services-delivery hub,
+Changchun,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma-
+Changsha,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta-
+Charlotte,US,America/New_York,-5,-4,GaWC 2024,Gamma-
+Chengdu,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta+
+Chennai,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Beta-
+Chicago,US,America/Chicago,-6,-5,GaWC 2024,Alpha
+Chongqing,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Cleveland,US,America/New_York,-5,-4,GaWC 2024,Gamma-
+Cluj-Napoca,Romania,Europe/Bucharest,+2,+3,Services-delivery hub,
+Colombo,Sri Lanka,Asia/Colombo,+5:30,+5:30,GaWC 2024,Gamma+
+Copenhagen,Denmark,Europe/Copenhagen,+1,+2,GaWC 2024,Beta
+Cordoba,Argentina,America/Argentina/Cordoba,-3,-3,Services-delivery hub,
+Da Nang,Vietnam,Asia/Ho_Chi_Minh,+7,+7,Services-delivery hub,
+Dalian,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Dallas,US,America/Chicago,-6,-5,GaWC 2024,Beta+
+Dar es Salaam,Tanzania,Africa/Dar_es_Salaam,+3,+3,GaWC 2024,Gamma-
+Darwin,Australia,Australia/Darwin,+9:30,+9:30,Timezone-regime completeness,
+Davao,Philippines,Asia/Manila,+8,+8,Services-delivery hub,
+Denver,US,America/Denver,-7,-6,GaWC 2024,Beta-
+Detroit,US,America/Detroit,-5,-4,GaWC 2024,Gamma
+Dhaka,Bangladesh,Asia/Dhaka,+6,+6,GaWC 2024,Gamma+
+Doha,Qatar,Asia/Qatar,+3,+3,GaWC 2024,Beta+
+Dubai,UAE,Asia/Dubai,+4,+4,GaWC 2024,Alpha+
+Dublin,Ireland,Europe/Dublin,+0,+1,GaWC 2024,Alpha-
+Dusseldorf,Germany,Europe/Berlin,+1,+2,GaWC 2024,Alpha-
+Edinburgh,UK,Europe/London,+0,+1,GaWC 2024,Gamma-
+Frankfurt,Germany,Europe/Berlin,+1,+2,GaWC 2024,Alpha
+Fuzhou,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma+
+Gdansk,Poland,Europe/Warsaw,+1,+2,Services-delivery hub,
+Geneva,Switzerland,Europe/Zurich,+1,+2,GaWC 2024,Beta
+Guadalajara,Mexico,America/Mexico_City,-6,-6,Services-delivery hub,
+Guangzhou,China,Asia/Shanghai,+8,+8,GaWC 2024,Alpha
+Guatemala City,Guatemala,America/Guatemala,-6,-6,GaWC 2024,Gamma+
+Haikou,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma
+Halifax,Canada,America/Halifax,-4,-3,Timezone-regime completeness,
+Hamburg,Germany,Europe/Berlin,+1,+2,GaWC 2024,Beta+
+Hangzhou,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta+
+Hanoi,Vietnam,Asia/Ho_Chi_Minh,+7,+7,GaWC 2024,Beta
+Harbin,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma
+Hefei,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta-
+Helsinki,Finland,Europe/Helsinki,+2,+3,GaWC 2024,Beta-
+Ho Chi Minh City,Vietnam,Asia/Ho_Chi_Minh,+7,+7,GaWC 2024,Beta+
+Hong Kong,China,Asia/Hong_Kong,+8,+8,GaWC 2024,Alpha+
+Honolulu,US,Pacific/Honolulu,-10,-10,Timezone-regime completeness,
+Houston,US,America/Chicago,-6,-5,GaWC 2024,Alpha-
+Hyderabad,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Gamma+
+Islamabad,Pakistan,Asia/Karachi,+5,+5,GaWC 2024,Gamma
+Istanbul,Turkey,Europe/Istanbul,+3,+3,GaWC 2024,Alpha
+Jakarta,Indonesia,Asia/Jakarta,+7,+7,GaWC 2024,Alpha
+Jeddah,Saudi Arabia,Asia/Riyadh,+3,+3,GaWC 2024,Gamma-
+Jinan,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Johannesburg,South Africa,Africa/Johannesburg,+2,+2,GaWC 2024,Alpha-
+Kabul,Afghanistan,Asia/Kabul,+4:30,+4:30,Timezone-regime completeness,
+Kampala,Uganda,Africa/Kampala,+3,+3,GaWC 2024,Gamma
+Karachi,Pakistan,Asia/Karachi,+5,+5,GaWC 2024,Beta-
+Kathmandu,Nepal,Asia/Kathmandu,+5:45,+5:45,Timezone-regime completeness,
+Katowice,Poland,Europe/Warsaw,+1,+2,GaWC 2024,Gamma-
+Kolkata,India,Asia/Kolkata,+5:30,+5:30,Services-delivery hub,
+Krakow,Poland,Europe/Warsaw,+1,+2,Services-delivery hub,
+Kuala Lumpur,Malaysia,Asia/Kuala_Lumpur,+8,+8,GaWC 2024,Alpha
+Kunming,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta-
+Kuwait City,Kuwait,Asia/Kuwait,+3,+3,GaWC 2024,Gamma+
+Kyiv,Ukraine,Europe/Kyiv,+2,+3,GaWC 2024,Beta
+Kyoto,Japan,Asia/Tokyo,+9,+9,Euromonitor 2025,
+Labuan,Malaysia,Asia/Kuching,+8,+8,GaWC 2024,Gamma-
+Lagos,Nigeria,Africa/Lagos,+1,+1,GaWC 2024,Beta-
+Lahore,Pakistan,Asia/Karachi,+5,+5,GaWC 2024,Gamma+
+Lima,Peru,America/Lima,-5,-5,GaWC 2024,Beta+
+Lisbon,Portugal,Europe/Lisbon,+0,+1,GaWC 2024,Alpha-
+Ljubljana,Slovenia,Europe/Ljubljana,+1,+2,GaWC 2024,Gamma-
+London,UK,Europe/London,+0,+1,GaWC 2024,Alpha++
+Los Angeles,US,America/Los_Angeles,-8,-7,GaWC 2024,Alpha
+Luxembourg,Luxembourg,Europe/Luxembourg,+1,+2,GaWC 2024,Alpha-
+Lviv,Ukraine,Europe/Kyiv,+2,+3,Services-delivery hub,
+Lyon,France,Europe/Paris,+1,+2,GaWC 2024,Beta-
+Macau,China,Asia/Macau,+8,+8,Euromonitor 2025,
+Madrid,Spain,Europe/Madrid,+1,+2,GaWC 2024,Alpha
+Managua,Nicaragua,America/Managua,-6,-6,GaWC 2024,Gamma-
+Manama,Bahrain,Asia/Bahrain,+3,+3,GaWC 2024,Beta
+Manchester,UK,Europe/London,+0,+1,GaWC 2024,Beta-
+Manila,Philippines,Asia/Manila,+8,+8,GaWC 2024,Beta
+Marseille,France,Europe/Paris,+1,+2,GaWC 2024,Gamma-
+Mecca,Saudi Arabia,Asia/Riyadh,+3,+3,Euromonitor 2025,
+Medellin,Colombia,America/Bogota,-5,-5,Services-delivery hub,
+Medina,Saudi Arabia,Asia/Riyadh,+3,+3,Euromonitor 2025,
+Melbourne,Australia,Australia/Melbourne,+11,+10,GaWC 2024,Alpha-
+Mexico City,Mexico,America/Mexico_City,-6,-6,GaWC 2024,Alpha
+Miami,US,America/New_York,-5,-4,GaWC 2024,Beta+
+Milan,Italy,Europe/Rome,+1,+2,GaWC 2024,Alpha
+Minneapolis,US,America/Chicago,-6,-5,GaWC 2024,Gamma+
+Monterrey,Mexico,America/Monterrey,-6,-6,GaWC 2024,Gamma
+Montevideo,Uruguay,America/Montevideo,-3,-3,GaWC 2024,Beta-
+Montreal,Canada,America/Toronto,-5,-4,GaWC 2024,Beta+
+Mumbai,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Alpha
+Munich,Germany,Europe/Berlin,+1,+2,GaWC 2024,Alpha-
+Muscat,Oman,Asia/Muscat,+4,+4,GaWC 2024,Gamma
+Nairobi,Kenya,Africa/Nairobi,+3,+3,GaWC 2024,Beta
+Nanchang,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma-
+Nanjing,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Nashville,US,America/Chicago,-6,-5,GaWC 2024,Gamma
+New Delhi,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Alpha-
+New York,US,America/New_York,-5,-4,GaWC 2024,Alpha++
+Nicosia,Cyprus,Asia/Nicosia,+2,+3,GaWC 2024,Beta-
+Ningbo,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma
+Orlando,US,America/New_York,-5,-4,Euromonitor 2025,
+Osaka,Japan,Asia/Tokyo,+9,+9,GaWC 2024,Gamma
+Oslo,Norway,Europe/Oslo,+1,+2,GaWC 2024,Beta
+Panama City,Panama,America/Panama,-5,-5,GaWC 2024,Beta-
+Paris,France,Europe/Paris,+1,+2,GaWC 2024,Alpha+
+Penang,Malaysia,Asia/Kuala_Lumpur,+8,+8,GaWC 2024,Gamma-
+Perth,Australia,Australia/Perth,+8,+8,GaWC 2024,Beta
+Philadelphia,US,America/New_York,-5,-4,GaWC 2024,Beta-
+Phnom Penh,Cambodia,Asia/Phnom_Penh,+7,+7,GaWC 2024,Gamma
+Phoenix,US,America/Phoenix,-7,-7,Timezone-regime completeness,
+Pittsburgh,US,America/New_York,-5,-4,GaWC 2024,Gamma-
+Ponta Delgada,Portugal (Azores),Atlantic/Azores,-1,+0,Timezone-regime completeness,
+Port Louis,Mauritius,Indian/Mauritius,+4,+4,GaWC 2024,Beta-
+Porto,Portugal,Europe/Lisbon,+0,+1,GaWC 2024,Gamma+
+Poznan,Poland,Europe/Warsaw,+1,+2,GaWC 2024,Gamma-
+Prague,Czechia,Europe/Prague,+1,+2,GaWC 2024,Beta+
+Praia,Cape Verde,Atlantic/Cape_Verde,-1,-1,Timezone-regime completeness,
+Pune,India,Asia/Kolkata,+5:30,+5:30,GaWC 2024,Gamma
+Qingdao,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta-
+Quito,Ecuador,America/Guayaquil,-5,-5,GaWC 2024,Gamma
+Riga,Latvia,Europe/Riga,+2,+3,GaWC 2024,Gamma
+Rio de Janeiro,Brazil,America/Sao_Paulo,-3,-3,GaWC 2024,Beta-
+Riyadh,Saudi Arabia,Asia/Riyadh,+3,+3,GaWC 2024,Alpha-
+Rome,Italy,Europe/Rome,+1,+2,GaWC 2024,Beta+
+Rotterdam,Netherlands,Europe/Amsterdam,+1,+2,GaWC 2024,Gamma+
+San Diego,US,America/Los_Angeles,-8,-7,GaWC 2024,Gamma+
+San Francisco,US,America/Los_Angeles,-8,-7,GaWC 2024,Alpha-
+San Jose (CA),US,America/Los_Angeles,-8,-7,GaWC 2024,Gamma
+San José (Costa Rica),Costa Rica,America/Costa_Rica,-6,-6,GaWC 2024,Gamma
+San Salvador,El Salvador,America/El_Salvador,-6,-6,GaWC 2024,Gamma
+Santiago,Chile,America/Santiago,-3,-4,GaWC 2024,Alpha-
+Santo Domingo,Dominican Republic,America/Santo_Domingo,-4,-4,GaWC 2024,Gamma+
+Sao Paulo,Brazil,America/Sao_Paulo,-3,-3,GaWC 2024,Alpha
+Seattle,US,America/Los_Angeles,-8,-7,GaWC 2024,Beta-
+Seoul,South Korea,Asia/Seoul,+9,+9,GaWC 2024,Alpha
+Shanghai,China,Asia/Shanghai,+8,+8,GaWC 2024,Alpha+
+Shenyang,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Shenzhen,China,Asia/Shanghai,+8,+8,GaWC 2024,Alpha-
+Singapore,Singapore,Asia/Singapore,+8,+8,GaWC 2024,Alpha+
+Sofia,Bulgaria,Europe/Sofia,+2,+3,GaWC 2024,Beta-
+St Louis,US,America/Chicago,-6,-5,GaWC 2024,Gamma-
+St. John's,Canada,America/St_Johns,-3:30,-2:30,Timezone-regime completeness,
+Stockholm,Sweden,Europe/Stockholm,+1,+2,GaWC 2024,Alpha-
+Stuttgart,Germany,Europe/Berlin,+1,+2,GaWC 2024,Beta-
+Surabaya,Indonesia,Asia/Jakarta,+7,+7,GaWC 2024,Gamma-
+Suva,Fiji,Pacific/Fiji,+12,+12,Timezone-regime completeness,
+Suzhou,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Sydney,Australia,Australia/Sydney,+11,+10,GaWC 2024,Alpha+
+Taipei,Taiwan,Asia/Taipei,+8,+8,GaWC 2024,Alpha-
+Taiyuan,China,Asia/Shanghai,+8,+8,GaWC 2024,Gamma+
+Tampa,US,America/New_York,-5,-4,GaWC 2024,Gamma
+Tbilisi,Georgia,Asia/Tbilisi,+4,+4,GaWC 2024,Gamma
+Tegucigalpa,Honduras,America/Tegucigalpa,-6,-6,GaWC 2024,Gamma
+Tehran,Iran,Asia/Tehran,+3:30,+3:30,Timezone-regime completeness,
+Tel Aviv,Israel,Asia/Jerusalem,+2,+3,GaWC 2024,Beta
+Tianjin,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta+
+Tirana,Albania,Europe/Tirane,+1,+2,GaWC 2024,Gamma
+Tokyo,Japan,Asia/Tokyo,+9,+9,GaWC 2024,Alpha+
+Toronto,Canada,America/Toronto,-5,-4,GaWC 2024,Alpha
+Tunis,Tunisia,Africa/Tunis,+1,+1,GaWC 2024,Gamma+
+Turin,Italy,Europe/Rome,+1,+2,GaWC 2024,Gamma-
+Valencia,Spain,Europe/Madrid,+1,+2,GaWC 2024,Gamma-
+Vancouver,Canada,America/Vancouver,-8,-7,GaWC 2024,Beta-
+Vienna,Austria,Europe/Vienna,+1,+2,GaWC 2024,Alpha-
+Warsaw,Poland,Europe/Warsaw,+1,+2,GaWC 2024,Alpha
+Washington DC,US,America/New_York,-5,-4,GaWC 2024,Alpha-
+Wellington,New Zealand,Pacific/Auckland,+13,+12,GaWC 2024,Gamma-
+Wroclaw,Poland,Europe/Warsaw,+1,+2,Services-delivery hub,
+Wuhan,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Xiamen,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Xian,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta-
+Yangon,Myanmar,Asia/Yangon,+6:30,+6:30,Timezone-regime completeness,
+Yuzhno-Sakhalinsk,Russia,Asia/Sakhalin,+11,+11,Timezone-regime completeness,
+Zagreb,Croatia,Europe/Zagreb,+1,+2,GaWC 2024,Beta-
+Zhengzhou,China,Asia/Shanghai,+8,+8,GaWC 2024,Beta
+Zurich,Switzerland,Europe/Zurich,+1,+2,GaWC 2024,Alpha-

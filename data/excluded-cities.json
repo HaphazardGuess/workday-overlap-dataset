@@ -1,0 +1,48 @@
+{
+  "note": "Excluded from the research dataset only. All remain fully supported in the ClockJumper converter at clockjumper.com. No time-zone regime is lost by any omission; regime completeness is guaranteed by the third inclusion gate.",
+  "framework_omissions": {
+    "reason": "Not classified Alpha, Beta, or Gamma in GaWC 2024 (most sit in GaWC's Sufficiency tiers, which GaWC defines as not dependent on the world-city network). GaWC measures advanced-producer-services connectivity, which excludes several national capitals; its 2024 edition also reflects the withdrawal of global services firms from Russia.",
+    "cities": [
+      "Addis Ababa",
+      "Algiers",
+      "Ankara",
+      "Baghdad",
+      "Brasília",
+      "Busan",
+      "Canberra",
+      "Christchurch",
+      "Edmonton",
+      "Fukuoka",
+      "Glasgow",
+      "Havana",
+      "Hobart",
+      "La Paz",
+      "Moscow",
+      "Ottawa",
+      "Portland",
+      "Reykjavik",
+      "Saint Petersburg",
+      "Salt Lake City",
+      "Tashkent",
+      "Tijuana",
+      "Ulaanbaatar",
+      "Vientiane",
+      "Yerevan"
+    ]
+  },
+  "tourism_omissions": {
+    "reason": "Appear in historical Euromonitor Top 100 editions but are not verifiable in Euromonitor's publicly-released 2025 index (the full current index is proprietary).",
+    "cities": [
+      "Las Vegas",
+      "Jerusalem",
+      "Cancún",
+      "Phuket",
+      "Marrakesh",
+      "Venice",
+      "Florence",
+      "Johor Bahru",
+      "Pattaya",
+      "Denpasar (Bali)"
+    ]
+  }
+}
